@@ -10,6 +10,7 @@ Here are some ideas to get you started:-->
 - I recently built a program to automatically download & transcribe your favorite podcasts, check it out [here]()
 - 🌱 I’m currently learning MLOPS to take my models from jupyter notebooks into working continuously, reliably, and efficiently in production!
 - 👯 I’m looking to collaborate on real world AI projects to provide real value for both developers and end-users. 
-- 📫 How to reach me: 
-  Email:adham.soliman725@gmail.com  
+- 📫 How to reach me:
+  - Email: adham.soliman725@gmail.com
+ 
 
