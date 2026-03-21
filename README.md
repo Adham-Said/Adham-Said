@@ -7,7 +7,6 @@ My name is Adham, and I'm an MIU CS graduate interested in all things python, da
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a Taxi Fare Prediction project, building an application that can predict the cost of a taxi fare through th
-- I recently built a program to automatically download & transcribe your favorite podcasts, check it out [here]()
 - 🌱 I’m currently learning MLOPS to take my models from jupyter notebooks into working continuously, reliably, and efficiently in production!
 - 👯 I’m looking to collaborate on real world AI projects to provide real value for both developers and end-users. 
 - 📫 How to reach me:
